@@ -4,7 +4,7 @@ require "ip_parser/version"
 
 Gem::Specification.new do |s|
   s.name        = "ip_parser"
-  s.version     = Netconf::VERSION
+  s.version     = IpParser::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Andrew Bates"]
   s.email       = ["abates@omeganetserv.com"]
